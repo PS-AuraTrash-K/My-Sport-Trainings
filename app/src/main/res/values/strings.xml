@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Sport Trainings</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_all_dates">AllDatesActivity</string>
 </resources>
